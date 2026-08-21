@@ -251,4 +251,4 @@ LinkedIn: [linkedin.com/in/solomon-alaba-391b0228b](https://www.linkedin.com/in/
 
 ## 📌 Project Information
 
-**Program:** Cybersecurity program at Networkwalks | **Week:** 02 | **Repository:** GitHub
+**Program:** Cybersecurity program at Networkwalks | **Week:** 02 | **Repository:** GitHub: https://github.com/alabasolomon777-maker/networkwalks-B082-week2-FOOTPRINTING-RECONNAISSANCE/edit/main/README.md
